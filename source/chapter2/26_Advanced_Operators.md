@@ -266,7 +266,7 @@ signedOverflow = signedOverflow &- 1
 
 因此计算结果为 `17`。
 
-有关 Swift 标准库提供的操作符信息，包括操作符优先级组和结核性设置的完整列表，请参见 [操作符声明](https://developer.apple.com/documentation/swift/operator_declarations)。
+有关 Swift 标准库提供的操作符信息，包括操作符优先级组和结合性设置的完整列表，请参见 [操作符声明](https://developer.apple.com/documentation/swift/operator_declarations)。
 
 > 注意
 > 
